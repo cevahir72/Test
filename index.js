@@ -4,4 +4,4 @@ let test1 = { "ahmet", "mahmut"}
 
 let api = "api+++"
 
-let= "boş komit"
+let= "boş komit+"
