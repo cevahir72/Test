@@ -4,4 +4,6 @@ let test1 = { "ahmet", "mahmut"}
 
 let api = "api+++"
 
-let= "boş komit+1238899"
+let= "boş komit+1238"
+
+let liste = [ 12, 13]
