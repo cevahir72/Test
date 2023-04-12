@@ -7,3 +7,5 @@ let api = "api+++"
 let= "boş komit+1238"
 
 let liste = [ 12, 13]
+
+let x = "12"
