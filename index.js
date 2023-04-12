@@ -9,3 +9,5 @@ let= "boş komit+1238"
 let liste = [ 12, 13]
 
 let x = "1233445566778899"
+
+let sıra = [1]
